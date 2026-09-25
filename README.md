@@ -2,7 +2,8 @@
 
 
 Landing page langsung ke daftar karakter, isinya foto (atau placeholder), nama penggilan, dan quote.
-<img width="1360" height="662" alt="image" src="https://github.com/user-attachments/assets/ddcedd52-fd5a-4b29-9fd8-6d455ee615ab" />
+<img width="1353" height="644" alt="image" src="https://github.com/user-attachments/assets/eb001b56-ae48-4abb-823d-1fa79ec8ee11" />
+
 
 
 Card di klik memunculkan biodata dan background singkat chara
